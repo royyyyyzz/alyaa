@@ -1,0 +1,12 @@
+{
+  "allowed_bots": [
+    "6283198276708",
+    "6281953692878",
+    "62882017116018",
+    "628123456789",
+    "6285165421526"
+  ],
+  "version": "8.3.2",
+  "message": "✨ IZUKA BOT UPDATE LOG\n\n📦 Version Update\n\n🛠 Fixed\n\n- Fixed Polaroid AI photobooth system\n- Fixed Jadibot / Clone Bot stability\n- Fixed Anime Search feature\n- Improved HD Image enhancer flow\n- Improved media & downloader handling\n- Bug fixes and performance optimization\n- And more minor fixes...\n\n🚀 Added\n\n- Added SoundCloud Search feature\n- Added Melo Search feature\n- Added Bilibili Search feature\n- Added interactive selection system\n- Added better result formatting UI\n\n⚡ Improvement\n\n- Faster response system\n- Better API handling\n- Cleaner message design\n- Improved stability for group usage\n\n«Thank you for using IZUKA BOT 🚀»",
+  "downloaded_by": []
+}
